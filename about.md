@@ -26,5 +26,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/robyconlay-uni/Photo-Amoenus">Team Build, mostly Back-End site</a></li>
+	<li><a href="https://github.com/robyconlay-uni/Photo-Amoenus">Team Build, mostly Back-End site</a> (Italian)</li>
 </ul>
